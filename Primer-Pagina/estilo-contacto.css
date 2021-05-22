@@ -1,0 +1,26 @@
+.titulo-general{
+    font-size: 20px; color: white;
+background-color: black;
+padding: 10px;
+margin: 0px;
+}
+.navegacion{
+    background-color: darkred;
+    padding: 0px;
+    height: 55px;
+    margin: 0px;
+}
+.forma{
+    font-size: 25px;
+    float: left;
+    margin-left: 35px;
+    margin-top: 10px;
+
+     }
+a {
+  outline: none;
+  text-decoration: none;
+  color: aliceblue;
+}
+h2 {
+    font-size: 35px;
